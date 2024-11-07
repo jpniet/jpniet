@@ -4,7 +4,7 @@
 
 ## 🎮 &nbsp;About Me
 
-I am a Business Analyst at Team Liquid. I provide intelligence and forecasting to the Sales & Partnerships team, utilizing data analytics through reporting on key performance indicators of diverse partners. I also conduct market research on market trends to support the sales team's pitches and optimize deal closures.
+I am a Business Intelligence Analyst at Team Liquid. I provide intelligence and forecasting to the Sales & Partnerships team, utilizing data analytics through reporting on key performance indicators of diverse partners. I also conduct market research on market trends to support the sales team's pitches and optimize deal closures.
 
 Throughout my career, I've taken on various exciting roles in data analytics, lifecycle marketing, business development and event operations. My experience in the music, sports betting, and esports industries has allowed me to enhance business operations and build strong relationships with stakeholders and partners. My passion and curiosity about uncovering the stories behind the data have been a driving force in my work, enabling me to discover valuable insights and make informed decisions to stay ahead of the competition.
 
